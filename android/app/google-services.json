@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515680236928",
+    "project_id": "notes-manager-app-a8151",
+    "storage_bucket": "notes-manager-app-a8151.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515680236928:android:81597b03e53f010698bd65",
+        "android_client_info": {
+          "package_name": "com.example.ipopi_notes_vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcWhSpEG9lzIafNKD4ycG9x_PX_L8iNX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
